@@ -1,0 +1,10 @@
+# MATLAB 缓存、临时文件忽略规则
+*.asv
+*.m~
+*.bak
+*.sav
+*.fig
+*.log
+cache/
+codegen/
+slprj/
